@@ -24,7 +24,7 @@ a {
 	font-family: "Helvetica"
 }
 a:hover {
-	text-decoration: line-through;
+	text-decoration: underline;
 }
 #twitter {
 	color: #3399FF;

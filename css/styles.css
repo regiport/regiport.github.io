@@ -1,0 +1,38 @@
+body {
+	background-image: url("http://www.marion-b.com/files/gimgs/1_new-splash.jpg");
+	font-family: "Helvetica"
+}
+
+#painting {
+	border: 6px solid gray;
+}
+h1 {
+	text-align: center;
+	color: #FFFF66;
+	font-size: 200%;
+	font-family: "Helvetica"
+}
+h2 {
+	font-size: 110%
+}
+h3 {
+	font-size: 110%
+}
+a {
+	color: #00CCCC;
+	text-decoration: none;
+	font-family: "Helvetica"
+}
+a:hover {
+	text-decoration: line-through;
+}
+.twitter {
+	color: #3399FF;
+}
+li {
+	list-style-type: square;
+	font-family: "Helvetica"
+}
+p {
+	color: gray;
+}

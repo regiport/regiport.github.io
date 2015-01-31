@@ -26,8 +26,11 @@ a {
 a:hover {
 	text-decoration: line-through;
 }
-.twitter {
+#twitter {
 	color: #3399FF;
+}
+#linkedin {
+	color: #CC6600;
 }
 li {
 	list-style-type: square;

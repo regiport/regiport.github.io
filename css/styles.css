@@ -36,3 +36,20 @@ li {
 p {
 	color: gray;
 }
+.btn {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #615761;
+  font-size: 28px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  border: solid #5e6569 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fce23c;
+  text-decoration: none;
+}

@@ -1,13 +1,15 @@
 body {
-	background-image: url("https://farm4.staticflickr.com/3924/14746846819_3bc02ed0b4_o.jpg");
-	font-family: "Helvetica"
+	background-image: url("IMG_1672.jpg");
+	font-family: "Helvetica Light", Arial, sans-serif;
 }
 
 h1 {
 	text-align: center;
 	color: #000000;
 	font-size: 200%;
-	font-family: "Helvetica"
+	font: "Helvetica Light", Arial, sans-serif;
+    font-size: 12px;
+    font-weight: lighter
 }
 h2 {
 	font-size: 110%
@@ -18,7 +20,7 @@ h3 {
 a {
 	color: #FFFFFF;
 	text-decoration: none;
-	font-family: "Helvetica"
+	font-family: "Helvetica Light", Arial, sans-serif;
 }
 a:hover {
 	text-decoration: underline;
@@ -31,7 +33,7 @@ a:hover {
 }
 li {
 	list-style-type: square;
-	font-family: "Helvetica"
+	font-family: "Helvetica Light", Arial, sans-serif;
 }
 p {
 	color: gray;

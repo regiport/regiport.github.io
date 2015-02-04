@@ -1,5 +1,6 @@
 body {
 	background-image: url("nyc.png");
+	background-size: 200px 50px;
 	font-family: "Helvetica Light", Arial, sans-serif;
 }
 

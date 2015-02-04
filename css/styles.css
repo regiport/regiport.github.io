@@ -1,14 +1,11 @@
 body {
-	background-image: url("http://www.marion-b.com/files/gimgs/1_new-splash.jpg");
+	background-image: url("https://farm4.staticflickr.com/3924/14746846819_59f6806b28_b.jpg");
 	font-family: "Helvetica"
 }
 
-#painting {
-	border: 6px solid gray;
-}
 h1 {
 	text-align: center;
-	color: #FFFF66;
+	color: #000000;
 	font-size: 200%;
 	font-family: "Helvetica"
 }
@@ -19,7 +16,7 @@ h3 {
 	font-size: 110%
 }
 a {
-	color: #00CCCC;
+	color: #FFFFFF;
 	text-decoration: none;
 	font-family: "Helvetica"
 }
@@ -27,10 +24,10 @@ a:hover {
 	text-decoration: underline;
 }
 #twitter {
-	color: #3399FF;
+	color: #FFFFFF;
 }
 #linkedin {
-	color: #CC6600;
+	color: #FFFFFF;
 }
 li {
 	list-style-type: square;
